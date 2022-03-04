@@ -1,4 +1,4 @@
-Mathematician | Data Scientist | python 
+Alo Esther is a Data Scientist who applies knowledge to uncover solutions hidden in data. To take on business challenges and goals, solve complex problems and create strategies to improve resilts and performance.
 
 <!--
 **aloesther/aloesther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
